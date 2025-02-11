@@ -1,0 +1,106 @@
+[
+    {
+      "image": "https://png.pngtree.com/png-clipart/20220719/original/pngtree-mercury-planet-png-image_8364672.png",
+        "name": "Mercury",
+      "order": 1,
+      "diameter_km": 4879,
+      "mass_kg": 3.3011e23,
+      "orbital_period_days": 87.97,
+      "orbital_distance_au": 0.39,
+      "atmosphere": "Thin, composed of oxygen, sodium, hydrogen, helium, and potassium",
+      "moons": 0,
+      "description": "Mercury is the closest planet to the Sun and experiences extreme temperature fluctuations due to its lack of atmosphere. The surface can reach 430°C during the day and drop to -180°C at night."
+    },
+    {
+      "image": "https://png.pngtree.com/png-vector/20240917/ourmid/pngtree-beautiful-planet-venus-png-image_13802444.png",
+      "name": "Venus",
+      "order": 2,
+      "diameter_km": 12104,
+      "mass_kg": 4.867e24,
+      "orbital_period_days": 225,
+      "orbital_distance_au": 0.72,
+      "atmosphere": "Thick, composed of carbon dioxide and clouds of sulfuric acid",
+      "moons": 0,
+      "description": "Venus is often referred to as Earth's 'sister planet' due to its similar size and mass, but its surface is extremely hostile with temperatures that can melt lead, and it has crushing atmospheric pressure."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/800px-Earth_Western_Hemisphere_transparent_background.png",
+
+        "name": "Earth",
+      "order": 3,
+      "diameter_km": 12742,
+      "mass_kg": 5.972e24,
+      "orbital_period_days": 365.25,
+      "orbital_distance_au": 1.0,
+      "atmosphere": "Nitrogen, oxygen, argon, carbon dioxide",
+      "moons": 1,
+      "description": "Earth is the only known planet to support life, with liquid water, a stable climate, and a protective atmosphere. Its surface is 71% water, and it is home to diverse ecosystems and species."
+    },
+    {
+      "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyMy0yMjUtdi5qcGc.jpg",
+
+      "name": "Mars",
+      "order": 4,
+      "diameter_km": 6779,
+      "mass_kg": 6.417e23,
+      "orbital_period_days": 687,
+      "orbital_distance_au": 1.52,
+      "atmosphere": "Thin, composed mostly of carbon dioxide",
+      "moons": 2,
+      "moons_list": ["Phobos", "Deimos"],
+      "description": "Mars, the Red Planet, is cold, dry, and rocky, with evidence of past water. It has two small moons, Phobos and Deimos, and is a prime candidate in the search for past life in the solar system."
+    },
+    {      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOJPFkA737w1520dEuQ9D60yASWWkbSQw_Q&s",
+
+      "name": "Jupiter",
+      "order": 5,
+      "diameter_km": 139820,
+      "mass_kg": 1.898e27,
+      "orbital_period_days": 4333,
+      "orbital_distance_au": 5.2,
+      "atmosphere": "Hydrogen, helium, methane, ammonia",
+      "moons": 80,
+      "moons_list": ["Io", "Europa", "Ganymede", "Callisto"],
+      "description": "Jupiter is the largest planet in the solar system, a gas giant with a powerful magnetic field. It has over 80 moons, including the four Galilean moons, and a Great Red Spot, a massive storm that has lasted for centuries."
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKq63G03GOkjdOEA635BAbt0hsKGIDMoxxQ&s",
+
+      "name": "Saturn",
+      "order": 6,
+      "diameter_km": 116460,
+      "mass_kg": 5.683e26,
+      "orbital_period_days": 10759,
+      "orbital_distance_au": 9.58,
+      "atmosphere": "Hydrogen, helium",
+      "moons": 82,
+      "moons_list": ["Titan", "Rhea", "Iapetus"],
+      "description": "Saturn is a gas giant known for its spectacular ring system, composed of ice and rock. It has 82 moons, with Titan being the largest, and is a key target in the search for extraterrestrial life."
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkogkYE7qEnhpRdWi7Uv6jC3sVfjxuANHANQ&s",
+
+      "name": "Uranus",
+      "order": 7,
+      "diameter_km": 50724,
+      "mass_kg": 8.681e25,
+      "orbital_period_days": 30687,
+      "orbital_distance_au": 19.18,
+      "atmosphere": "Hydrogen, helium, methane",
+      "moons": 27,
+      "moons_list": ["Titania", "Oberon", "Umbriel"],
+      "description": "Uranus is an ice giant with a unique tilted rotation, possibly due to a massive collision. Its atmosphere is mostly hydrogen, helium, and methane, giving it a distinctive blue-green color. It has 27 known moons."
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHadf7wBeXF5NazESBFe2TK3jiug49vdgug&s",
+
+      "name": "Neptune",
+      "order": 8,
+      "diameter_km": 49528,
+      "mass_kg": 1.024e26,
+      "orbital_period_days": 60190,
+      "orbital_distance_au": 30.07,
+      "atmosphere": "Hydrogen, helium, methane",
+      "moons": 14,
+      "moons_list": ["Triton"],
+      "description": "Neptune, the farthest planet from the Sun, is an ice giant with an atmosphere rich in hydrogen, helium, and methane. Its most notable moon, Triton, is geologically active and has geysers that erupt nitrogen gas."}]
